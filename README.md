@@ -4,7 +4,7 @@ which is a unique feature of OSPF that splits large networks into smaller sectio
 
 ## Distance vector protocol
 
-use `routing by rumor` in which echo route shares information about the routers they know
+use `routing by rumor` in which each router shares information about the routers they know
 and their metric cost to reach each destination
 
 However, the routers don't have a complete map of the network they use the information their
